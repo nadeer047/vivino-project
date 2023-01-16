@@ -1,0 +1,697 @@
+,name,price,size,reviews,rating,comment
+0,Game of Thrones Cabernet (750 ML),$59.99,750 ml,0,0,
+1,Zerran Tinto (750 ML),$17.99,750 ml,0,0,
+2,Corte Orsini Toscana Rosso IGT (750 ML),$33.98,750 ml,0,0,
+3,Tributus Napa Valley Cabernet Sauvignon (750 ML),$44.98,750 ml,6,3.7,TOOTHPASTE
+4,Splendid Oak Cabernet Sauvignon (750 ML),$21.98,750 ml,1,4,GREAT WINE FOR THE PRICE!
+6,Serabel Cotes du Rhone (750 ML),$18.98,750 ml,5,4,NOT GOOD
+7,Vineyard View Cabernet Sauvignon (750 ML),$44.98,750 ml,5,4.2,GREAT TASTING CABERNET!
+8,Dark Hundred Red Wine (750 ML),$23.98,750 ml,1,4,ENJOYABLE
+9,Settecieli Sangiovese (750 ML),$17.98,750 ml,5,4.6,VERY GOOD
+10,Cabpothesis Cabernet Sauvignon (750 ML),$19.98,750 ml,3,3.7,- GREAT WINE FOR THE MONEY
+11,Viva La Fruta Sangria (750 ML),$17.98,750 ml,7,4,MEH
+12,Bixby Bridge Cab (750 ML),$29.98,750 ml,4,4.8,EASY DRINKING
+13,Redwick Red Blend (750 ML),$17.98,750 ml,8,4.1,CENTRAL COAST WINES ARE GREAT
+14,Bixby Creek Bridge Napa Valley Red Blend (750 ML),$22.98,750 ml,6,3.7,GREAT PRODUCT FOR THE PRICE.
+15,Samuel Charles North Coast Cabernet Sauvignon (750 ML),$24.98,750 ml,2,5,ADD STEAK = DELICIOUS
+16,Moral Compass Columbia Valley Cabernet Sauvignon (750 ML),$22.98,750 ml,1,5,PRETTY DARN GOOD BLEND
+17,Goldenrod Flower Pinot Noir (750 ML),$48.99,750 ml,0,0,
+18,Townhouse Pinot Noir (750 ML),$23.98,750 ml,0,0,
+19,Crooked Path Paso Robles Zinfandel (750 ML),$29.98,750 ml,8,3.8,NOT TERRIBLE BUT NOT WORTH $30
+20,Gen 5 Lodi Old Vine Zinfandel (750 ML),$19.98,750 ml,12,2.9,GO-TO ZIN
+21,Close Call Lodi Zinfandel (750 ML),$23.98,750 ml,1,5,TWO THUMBS UP!
+22,Athenaeum Napa Valley Cabernet Sauvignon (750 ML),$39.98,750 ml,4,4.5,TEST FANTASTIC
+23,Momentous Cabernet Sauvignon (750 ML),$29.98,750 ml,4,4.3,AMAZING
+24,Game of Thrones Cabernet (750 ML),$59.99,750 ml,0,0,
+25,Zerran Tinto (750 ML),$17.99,750 ml,0,0,
+26,Corte Orsini Toscana Rosso IGT (750 ML),$33.98,750 ml,0,0,
+27,Tributus Napa Valley Cabernet Sauvignon (750 ML),$44.98,750 ml,6,3.7,TOOTHPASTE
+28,Splendid Oak Cabernet Sauvignon (750 ML),$21.98,750 ml,1,4,GREAT WINE FOR THE PRICE!
+29,Concentric Petite Sirah Reserve (750 ML),$19.98,750 ml,6,5,VERY GOOD
+30,Serabel Cotes du Rhone (750 ML),$18.98,750 ml,5,4,NOT GOOD
+31,Vineyard View Cabernet Sauvignon (750 ML),$44.98,750 ml,5,4.2,GREAT TASTING CABERNET!
+32,Dark Hundred Red Wine (750 ML),$23.98,750 ml,1,4,ENJOYABLE
+33,Settecieli Sangiovese (750 ML),$17.98,750 ml,5,4.6,VERY GOOD
+34,Cabpothesis Cabernet Sauvignon (750 ML),$19.98,750 ml,3,3.7,- GREAT WINE FOR THE MONEY
+35,Viva La Fruta Sangria (750 ML),$17.98,750 ml,7,4,MEH
+36,Bixby Bridge Cab (750 ML),$29.98,750 ml,4,4.8,EASY DRINKING
+37,Redwick Red Blend (750 ML),$17.98,750 ml,8,4.1,CENTRAL COAST WINES ARE GREAT
+38,Bixby Creek Bridge Napa Valley Red Blend (750 ML),$22.98,750 ml,6,3.7,GREAT PRODUCT FOR THE PRICE.
+39,Samuel Charles North Coast Cabernet Sauvignon (750 ML),$24.98,750 ml,2,5,ADD STEAK = DELICIOUS
+40,Moral Compass Columbia Valley Cabernet Sauvignon (750 ML),$22.98,750 ml,1,5,PRETTY DARN GOOD BLEND
+41,Goldenrod Flower Pinot Noir (750 ML),$48.99,750 ml,0,0,
+42,Townhouse Pinot Noir (750 ML),$23.98,750 ml,0,0,
+43,Crooked Path Paso Robles Zinfandel (750 ML),$29.98,750 ml,8,3.8,NOT TERRIBLE BUT NOT WORTH $30
+44,Gen 5 Lodi Old Vine Zinfandel (750 ML),$19.98,750 ml,12,2.9,GO-TO ZIN
+45,Close Call Lodi Zinfandel (750 ML),$23.98,750 ml,1,5,TWO THUMBS UP!
+46,Athenaeum Napa Valley Cabernet Sauvignon (750 ML),$39.98,750 ml,4,4.5,TEST FANTASTIC
+47,Momentous Cabernet Sauvignon (750 ML),$29.98,750 ml,4,4.3,AMAZING
+48,Spottswoode Lyndenhurst Cabernet Sauvignon 2015 (750 ML),$94.99,750 ml,0,0,
+49,Stonecap Syrah (750 ML),$11.99,750 ml,0,0,
+50,Domaine Faiveley Chambolle-Musigny AC 2016 (750 ML),$109.99,750 ml,0,0,
+51,Castle Rock Pinot Noir Reserve San Benito County (750 ML),$24.98,750 ml,1,1,NOT A WINE TO GIVE
+52,Delille Cellars 4 Flags Cabernet Sauvignon (750 ML),$79.99,750 ml,0,0,
+53,Michael David Freakshow Cabernet Sauvignon (4PK 187 ML),$21.99,4pk 187 ml,0,0,
+54,Rodney Strong Upshot Red (750 ML),$23.99,750 ml,1,5,WE LOVE THIS BLEND!
+55,St Francis Sonoma County Pinot Noir (750 ML),$24.99,750 ml,0,0,
+56,Boen Tri-Appellation Pinot Noir (750 ML),$24.99,750 ml,0,0,
+57,Quest Paso Robles Proprietary Red (750 ML),$34.99,750 ml,0,0,
+58,Bonanza by Chuck Wagner Cabernet Sauvignon (750 ML),$29.99,750 ml,2,5,PLEASANTLY SURPRISED
+59,Poggio Il Castellare Rosso di Montalcino (750 ML),$29.99,750 ml,1,4,A GREAT ITALIAN FOR ANYTIME
+60,Twomey Merlot 2015 (750 ML),$79.99,750 ml,0,0,
+61,Delarche Aloxe Corton (750 ML),$59.99,750 ml,0,0,
+62,Cosmic Egg Cabernet Sauvignon (750 ML),$25.99,750 ml,0,0,
+63,Errarzuriz Max Cabernet Sauvignon Reserva (750 ML),$19.99,750 ml,0,0,
+64,Nine Hats Malbec (750 ML),$27.99,750 ml,0,0,
+65,Spring Valley Vineyards Uriah Red Wine 2015 (750 ML),$59.99,750 ml,0,0,
+66,Vietti Barolo Castiglione 2015 (750 ML),$64.99,750 ml,0,0,
+67,Samuel Charles Red Blend (750 ML),$24.98,750 ml,1,5,I BUY BY THE CASE
+68,Robert Mercer Homestead Edition Cabernet Sauvignon (750 ML),$29.98,750 ml,0,0,
+69,Robert Mercer Homestead Edition Red Blend (750 ML),$29.98,750 ml,2,5,A GOOD BUY
+70,Vineyard View Red Blend (750 ML),$39.98,750 ml,3,4.7,AMAZING
+71,Elouan Pinot Noir (1.5 LTR),$64.99,1.5 ltr,0,0,
+72,Markham Cabernet Sauvignon (750 ML),$49.99,750 ml,0,0,
+73,Hess Select Cabernet Sauvignon (750 ML),$24.99,750 ml,0,0,
+74,Sutter Home Cabernet (4PK 187 ML),$7.99,4pk 187 ml,1,1,BETTER THEN COL. ABERNATHY'S
+75,Wild Horse Pinot Noir (750 ML),$22.99,750 ml,3,3.7,WONDERFUL PINOT NOIR
+76,Masciarelli Montepulciano d'Abruzzo (750 ML),$14.99,750 ml,0,0,
+77,Antinori Chianti Classico Riserva DOCG (750 ML),$44.99,750 ml,0,0,
+78,Simi Cabernet Sauvignon (750 ML),$29.99,750 ml,1,5,A VERY NICE CAB.
+79,Columbia Crest Merlot Grand Estates (750 ML),$11.99,750 ml,0,0,
+80,Ruffino Chianti Classico Aziano (750 ML),$17.99,750 ml,0,0,
+81,Georges Duboeuf Domaine de Rosiers Moulin A Vent (750 ML),$26.99,750 ml,1,5,GOOD QPR
+82,Duboeuf Beaujolais-Villages (750 ML),$21.99,750 ml,2,5,DELICIOUS GAMAY FROM GEORGE DUBOEUF.
+83,Castello d'Albola Chianti Classico DOCG (750 ML),$19.99,750 ml,0,0,
+84,Rombauer Merlot (750 ML),$59.99,750 ml,1,5,LOVE ROMBAUER!
+85,Joseph Drouhin Savigny-les-Beaune (750 ML),$49.99,750 ml,0,0,
+86,Cousino-Macul Cabernet Antiguas (750 ML),$22.99,750 ml,0,0,
+87,Borsao Campo Borja (750 ML),$10.99,750 ml,0,0,
+88,Argyle Willamette Pinot Noir (750 ML),$27.99,750 ml,0,0,
+89,Joseph Drouhin Macon-Villages (750 ML),$18.99,750 ml,0,0,
+90,Castello di Volpaia Chianti Classico (750 ML),$26.99,750 ml,2,4.5,UNDER THE TUSCAN SUN
+91,Arbor Crest Cabernet '10 (750 ML),$21.99,750 ml,0,0,
+92,Concha y Toro Casillero del Diablo Cab (750 ML),$12.99,750 ml,0,0,
+93,Francis Coppola Diamond Collection Claret (750 ML),$22.99,750 ml,7,4.9,EASY AND DELICIOUS!
+94,Campo Viejo Gran Reserva Rioja (750 ML),$32.99,750 ml,0,0,
+95,Robert Mondavi Coastal Merlot (750 ML),$13.99,750 ml,0,0,
+0,Nine Hats Riesling (750 ML),$16.99,750 ml,0,0,
+1,Kim Crawford Sauvignon Blanc Cans 2 Pack (250 ML),$12.99,250 ml,0,0,
+2,Carello Chinetti Sonoma County Chardonnay (750 ML),$24.98,750 ml,2,5,ELEGANT CHARDONNAY
+3,Fly By Napa Valley Sauvignon Blanc (750 ML),$24.98,750 ml,5,4.4,NICE
+4,Per Sempre Napa Valley Chardonnay (750 ML),$49.99,750 ml,0,0,
+5,Lillie's Sauvignon Blanc (750 ML),$19.98,750 ml,8,3.9,FAB SAV BLANC
+6,Arius Chardonnay (750 ML),$25.98,750 ml,3,4.3,DELICIOUS!
+7,Momentous Chardonnay (750 ML),$23.98,750 ml,3,5,SHHHHHH
+8,Coppola Director's Central Coast Chardonnay (750 ML),$19.98,750 ml,13,3.6,VERY GOOD WINE
+9,Donovan-Parke Chardonnay (750 ML),$17.98,750 ml,4,4.3,SIMPLE AND GOOD
+10,Rocklin Ranch Chardonnay (750 ML),$23.98,750 ml,5,4.6,CLASSIS
+11,Gina Moscato (750 ML),$18.98,750 ml,10,4.5,WEAK MOSCATO
+12,Craftwork Chardonnay (750 ML),$23.98,750 ml,5,3.4,GREAT PAIRING WINE
+13,Quinton Paso Robles Viognier (750 ML),$15.98,750 ml,14,3.4,EASY DRINKING
+14,STONECAP MERLOT (750 ML),$11.99,750 ml,0,0,
+15,Browne Sauvignon Blanc (750 ML),$17.99,750 ml,0,0,
+16,Scarpetta Pinot Grigio (750 ML),$17.99,750 ml,3,4.7,GREAT VALUE
+17,House Wine Chardonnay Can (375 ML),$6.99,375 ml,0,0,
+18,Bread and Butter Chardonnay (750 ML),$19.99,750 ml,1,5,GREAT UNIQUE FLAVORS
+19,Le Petit Silex Sancerre (750 ML),$28.99,750 ml,0,0,
+20,Lincourt Steel Chardonnay Santa Rita Hills (750 ML),$22.99,750 ml,0,0,
+21,Dark Horse Pinot Grigio Can (375 ML),$6.99,375 ml,0,0,
+22,Clair de Lune Riesling (750 ML),$15.98,750 ml,2,3,BALANCED JUST RIGHT
+23,Jam Cellars Butter Chardonnay (4PK 250ML),$23.99,4pk 250ml,0,0,
+25,Kim Crawford Sauvignon Blanc Cans 2 Pack (250 ML),$12.99,250 ml,0,0,
+26,Carello Chinetti Sonoma County Chardonnay (750 ML),$24.98,750 ml,2,5,ELEGANT CHARDONNAY
+27,Fly By Napa Valley Sauvignon Blanc (750 ML),$24.98,750 ml,5,4.4,NICE
+28,Per Sempre Napa Valley Chardonnay (750 ML),$49.99,750 ml,0,0,
+29,Lillie's Sauvignon Blanc (750 ML),$19.98,750 ml,8,3.9,FAB SAV BLANC
+30,Arius Chardonnay (750 ML),$25.98,750 ml,3,4.3,DELICIOUS!
+31,Momentous Chardonnay (750 ML),$23.98,750 ml,3,5,SHHHHHH
+32,Coppola Director's Central Coast Chardonnay (750 ML),$19.98,750 ml,13,3.6,VERY GOOD WINE
+33,Donovan-Parke Chardonnay (750 ML),$17.98,750 ml,4,4.3,SIMPLE AND GOOD
+34,Rocklin Ranch Chardonnay (750 ML),$23.98,750 ml,5,4.6,CLASSIS
+35,Gina Moscato (750 ML),$18.98,750 ml,10,4.5,WEAK MOSCATO
+36,Craftwork Chardonnay (750 ML),$23.98,750 ml,5,3.4,GREAT PAIRING WINE
+37,Quinton Paso Robles Viognier (750 ML),$15.98,750 ml,14,3.4,EASY DRINKING
+38,STONECAP MERLOT (750 ML),$11.99,750 ml,0,0,
+39,Browne Sauvignon Blanc (750 ML),$17.99,750 ml,0,0,
+40,Scarpetta Pinot Grigio (750 ML),$17.99,750 ml,3,4.7,GREAT VALUE
+41,House Wine Chardonnay Can (375 ML),$6.99,375 ml,0,0,
+42,Bread and Butter Chardonnay (750 ML),$19.99,750 ml,1,5,GREAT UNIQUE FLAVORS
+43,Le Petit Silex Sancerre (750 ML),$28.99,750 ml,0,0,
+44,Lincourt Steel Chardonnay Santa Rita Hills (750 ML),$22.99,750 ml,0,0,
+45,Dark Horse Pinot Grigio Can (375 ML),$6.99,375 ml,0,0,
+46,Clair de Lune Riesling (750 ML),$15.98,750 ml,2,3,BALANCED JUST RIGHT
+47,Jam Cellars Butter Chardonnay (4PK 250ML),$23.99,4pk 250ml,0,0,
+48,Nine Hats Riesling (750 ML),$16.99,750 ml,0,0,
+49,Kim Crawford Sauvignon Blanc Cans 2 Pack (250 ML),$12.99,250 ml,0,0,
+50,Carello Chinetti Sonoma County Chardonnay (750 ML),$24.98,750 ml,2,5,ELEGANT CHARDONNAY
+52,Per Sempre Napa Valley Chardonnay (750 ML),$49.99,750 ml,0,0,
+53,Lillie's Sauvignon Blanc (750 ML),$19.98,750 ml,8,3.9,FAB SAV BLANC
+54,Arius Chardonnay (750 ML),$25.98,750 ml,3,4.3,DELICIOUS!
+55,Momentous Chardonnay (750 ML),$23.98,750 ml,3,5,SHHHHHH
+58,Rocklin Ranch Chardonnay (750 ML),$23.98,750 ml,5,4.6,CLASSIS
+59,Gina Moscato (750 ML),$18.98,750 ml,10,4.5,WEAK MOSCATO
+60,Craftwork Chardonnay (750 ML),$23.98,750 ml,5,3.4,GREAT PAIRING WINE
+61,Quinton Paso Robles Viognier (750 ML),$15.98,750 ml,14,3.4,EASY DRINKING
+62,STONECAP MERLOT (750 ML),$11.99,750 ml,0,0,
+63,Browne Sauvignon Blanc (750 ML),$17.99,750 ml,0,0,
+64,Scarpetta Pinot Grigio (750 ML),$17.99,750 ml,3,4.7,GREAT VALUE
+65,House Wine Chardonnay Can (375 ML),$6.99,375 ml,0,0,
+66,Bread and Butter Chardonnay (750 ML),$19.99,750 ml,1,5,GREAT UNIQUE FLAVORS
+67,Le Petit Silex Sancerre (750 ML),$28.99,750 ml,0,0,
+68,Lincourt Steel Chardonnay Santa Rita Hills (750 ML),$22.99,750 ml,0,0,
+69,Dark Horse Pinot Grigio Can (375 ML),$6.99,375 ml,0,0,
+70,Clair de Lune Riesling (750 ML),$15.98,750 ml,2,3,BALANCED JUST RIGHT
+71,Jam Cellars Butter Chardonnay (4PK 250ML),$23.99,4pk 250ml,0,0,
+72,Black Box Sauvignon Blanc '08 (3 LTR BOX),$24.99,3 ltr box,0,0,
+73,La Crema Chardonnay Monterey County (750 ML),$21.99,750 ml,0,0,
+74,Sutter Home Moscato (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+75,Castle Rock Sauvignon Blanc (750 ML),$10.99,750 ml,0,0,
+76,Decoy by Duckhorn Chardonnay (750 ML),$24.99,750 ml,0,0,
+77,Luisi Moscato D'asti (750 ML),$21.98,750 ml,21,4.6,VERY SWEET
+78,Cupcake Pinot Grigio (750 ML),$12.99,750 ml,0,0,
+79,Primo Amore Moscato (750 ML),$17.99,750 ml,8,5,"""DELICIOUSLY SWEET"""
+80,Delille Chaleur Blanc (750 ML),$49.99,750 ml,0,0,
+81,Canoe Ridge Expedition Pinot Gris (750 ML),$18.99,750 ml,0,0,
+82,Arancio Pinot Grigio (750 ML),$17.98,750 ml,2,2.5,THE TASTE IS DULL
+83,Stateland Cellars Chardonnay Reserve (750 ML),$29.98,750 ml,7,3.6,"REALLY NICE WINE, BUT A BIT EXPENSIVE."
+84,Ray's Creek Vineyards Chardonnay (750 ML),$19.98,750 ml,6,4.2,"GREAT TASTE, GREAT PRICE"
+85,Buena Vista Carneros Chardonnay (750 ML),$29.98,750 ml,0,0,
+86,Waterbrook Chardonnay Reserve (750 ML),$16.99,750 ml,0,0,
+87,De Loach Chardonnay Central Coast (750 ML),$19.98,750 ml,2,4,SO SO
+88,Quinton Chardonnay (750 ML),$15.98,750 ml,4,3.3,UNUSUAL TASTE FOR A CHARDONNAY
+89,La Crema Chardonnay Sonoma Coast (375 ML),$13.99,375 ml,0,0,
+90,La Crema Pinot Gris (750 ML),$22.99,750 ml,1,4,"BRIGHT, FULL, LIGHT, DELICIOUS"
+91,Joel Gott Pinot Gris (750 ML),$24.99,750 ml,0,0,
+92,Chloe Pinot Grigio (750 ML),$19.99,750 ml,1,4,"MILD, YET CRISP."
+93,Coyote Canyon Andrews Red Table Wine (750 ML),$38.99,750 ml,0,0,
+94,Dunham Shirley Mays Chardonnay (750 ML),$27.99,750 ml,0,0,
+95,James Bryant Hill Chardonnay (750 ML),$19.98,750 ml,1,5,MER SOLEIL COMPETITOR
+96,Black Box Sauvignon Blanc '08 (3 LTR BOX),$24.99,3 ltr box,0,0,
+97,La Crema Chardonnay Monterey County (750 ML),$21.99,750 ml,0,0,
+98,Sutter Home Moscato (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+99,Castle Rock Sauvignon Blanc (750 ML),$10.99,750 ml,0,0,
+100,Decoy by Duckhorn Chardonnay (750 ML),$24.99,750 ml,0,0,
+101,Luisi Moscato D'asti (750 ML),$21.98,750 ml,21,4.6,VERY SWEET
+102,Cupcake Pinot Grigio (750 ML),$12.99,750 ml,0,0,
+103,Primo Amore Moscato (750 ML),$17.99,750 ml,8,5,"""DELICIOUSLY SWEET"""
+104,Delille Chaleur Blanc (750 ML),$49.99,750 ml,0,0,
+105,Canoe Ridge Expedition Pinot Gris (750 ML),$18.99,750 ml,0,0,
+106,Arancio Pinot Grigio (750 ML),$17.98,750 ml,2,2.5,THE TASTE IS DULL
+107,Stateland Cellars Chardonnay Reserve (750 ML),$29.98,750 ml,7,3.6,"REALLY NICE WINE, BUT A BIT EXPENSIVE."
+108,Ray's Creek Vineyards Chardonnay (750 ML),$19.98,750 ml,6,4.2,"GREAT TASTE, GREAT PRICE"
+109,Buena Vista Carneros Chardonnay (750 ML),$29.98,750 ml,0,0,
+110,Waterbrook Chardonnay Reserve (750 ML),$16.99,750 ml,0,0,
+111,De Loach Chardonnay Central Coast (750 ML),$19.98,750 ml,2,4,SO SO
+112,Quinton Chardonnay (750 ML),$15.98,750 ml,4,3.3,UNUSUAL TASTE FOR A CHARDONNAY
+113,La Crema Chardonnay Sonoma Coast (375 ML),$13.99,375 ml,0,0,
+124,Chateau Ste Michelle Indian Wells Chardonnay (750 ML),$16.99,750 ml,1,5,ENJOY
+125,Ch Ste Michelle Sauvignon Blanc (750 ML),$12.99,750 ml,0,0,
+126,Daou Paso Robles Chardonnay (750 ML),$24.99,750 ml,0,0,
+127,Limited Barrel Knights Valley Chardonnay (750 ML),$23.98,750 ml,0,0,
+128,Willamette Valley Vineyards Riesling (750 ML),$17.99,750 ml,5,5,FANTASTIC RIESLING!
+129,Giapoza Sonoma Coast Chardonnay (750 ML),$23.95,750 ml,0,0,
+130,Seaglass Pinot Grigio (750 ML),$15.99,750 ml,0,0,
+131,Amity Willamette Valley Pinot Blanc (750 ML),$24.99,750 ml,0,0,
+132,K Vintners Viogner (750 ML),$34.99,750 ml,0,0,
+133,Chehalem Three Vineyard Pinot Gris (750 ML),$26.99,750 ml,0,0,
+134,Gunderloch Riesling Kabinett Baptiste'07 (750 ML),$24.99,750 ml,0,0,
+135,Chateau Ste Michelle Sweet Riesling (750 ML),$14.99,750 ml,4,4.8,WONDERFUL FLAVOR
+136,McBride Sisters Black Girl Magic Riesling (750 ML),$29.99,750 ml,1,5,DELICIOUS
+137,Wente Vineyards LTD Chardonnay (750 ML),$23.98,750 ml,3,2.7,WILL DEFINITELY KEEP BUYING
+138,Duckhorn Vineyards Chardonnay Napa Valley (750 ML),$44.99,750 ml,1,5,BEST CHARDONNAY I'VE TASTED
+139,Silverado Sauvignon Blanc Miller Ranch (750 ML),$27.99,750 ml,3,3.7,BEST VALUE
+140,Wente Riva Ranch Chardonnay (750 ML),$24.99,750 ml,5,4.8,BEST CA CHARD FOR THE PRICE
+141,Black Box Pinot Grigio '07 (3 LTR BOX),$24.99,3 ltr box,1,1,NOPE. NEVER AGAIN.
+142,StoneCap Columbia Valley Chardonnay (750 ML),$11.99,750 ml,0,0,
+143,Josh Cellars Chardonnay 375mL (375 ML),$9.99,375 ml,0,0,
+0,Stella Rosa Rose (750 ML),$19.99,750 ml,2,5,GREAT SPRING/SUMMER SELECTION
+1,Domaines Ott BY.OTT Rose (750 ML),$34.99,750 ml,0,0,
+2,Dolce Vita Rose (750 ML),$17.98,750 ml,2,5,LOVELY ROSE
+3,Kendall-Jackson Vintner's Reserve Rose (750 ML),$19.99,750 ml,0,0,
+4,Joseph Perrier Brut Royale Rose Champagne (1.5 LTR),$149.99,1.5 ltr,0,0,
+5,House Wine Rose Can (375 ML),$6.99,375 ml,0,0,
+6,Clair de Lune Rose (750 ML),$15.98,750 ml,4,4,SO SOUR!!
+7,Sutter Home Rose (4PK 187 ML),$6.99,4pk 187 ml,0,0,
+8,Edna Valley Rose (750 ML),$14.99,750 ml,0,0,
+9,Rose All Day Rose (750 ML),$14.99,750 ml,0,0,
+10,CaMaiol Chiaretto Rose (750 ML),$16.99,750 ml,0,0,
+11,Underwood Rose Bubbles (375 ML),$7.99,375 ml,0,0,
+12,Cascadian Outfitters Sparkling Rose (375 ML),$5.99,375 ml,1,5,BEST SPARKLING ROSE' IN A CAN!
+13,Antiquus Costieres De Nimes Rose (750 ML),$29.98,750 ml,0,0,
+14,Sutter Home FRE Sparkling Rose 4 PK (4PK 250ML),$12.99,4pk 250ml,1,5,QUALITY NA BEVERAGE!
+18,L'Excellence des Muraires Rose de Provence by Bernard Magrez (750 ML),$39.98,750 ml,0,0,
+19,Underwood Rose in a can (375 ML),$7.99,375 ml,2,3.5,NOT VERY GOOD.
+20,Gerard Bertrand Cote des Roses (375 ML),$11.99,375 ml,0,0,
+21,Sutter Home White Zinfandel (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+22,Beringer Main & Vine White Merlot (750 ML),$9.99,750 ml,3,4,GREAT SURPRISE
+28,Joseph Perrier Brut Royale Rose Champagne (1.5 LTR),$149.99,1.5 ltr,0,0,
+29,House Wine Rose Can (375 ML),$6.99,375 ml,0,0,
+30,Clair de Lune Rose (750 ML),$15.98,750 ml,4,4,SO SOUR!!
+31,Sutter Home Rose (4PK 187 ML),$6.99,4pk 187 ml,0,0,
+32,Edna Valley Rose (750 ML),$14.99,750 ml,0,0,
+33,Rose All Day Rose (750 ML),$14.99,750 ml,0,0,
+34,CaMaiol Chiaretto Rose (750 ML),$16.99,750 ml,0,0,
+35,Underwood Rose Bubbles (375 ML),$7.99,375 ml,0,0,
+36,Cascadian Outfitters Sparkling Rose (375 ML),$5.99,375 ml,1,5,BEST SPARKLING ROSE' IN A CAN!
+37,Antiquus Costieres De Nimes Rose (750 ML),$29.98,750 ml,0,0,
+38,Sutter Home FRE Sparkling Rose 4 PK (4PK 250ML),$12.99,4pk 250ml,1,5,QUALITY NA BEVERAGE!
+39,Roscato Rosse Dolce 2 Pack (250 ML),$9.99,250 ml,0,0,
+40,Bev Rose (4PK 250ML),$19.99,4pk 250ml,18,4.8,THE ONLY GOOD PART OF 2020
+41,Chateau du Puch Bordeaux Rose (750 ML),$14.98,750 ml,1,4,EASY TO DRINK NOT TO SWEET.
+42,L'Excellence des Muraires Rose de Provence by Bernard Magrez (750 ML),$39.98,750 ml,0,0,
+44,Gerard Bertrand Cote des Roses (375 ML),$11.99,375 ml,0,0,
+45,Sutter Home White Zinfandel (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+50,Dolce Vita Rose (750 ML),$17.98,750 ml,2,5,LOVELY ROSE
+51,Kendall-Jackson Vintner's Reserve Rose (750 ML),$19.99,750 ml,0,0,
+52,Joseph Perrier Brut Royale Rose Champagne (1.5 LTR),$149.99,1.5 ltr,0,0,
+53,House Wine Rose Can (375 ML),$6.99,375 ml,0,0,
+54,Clair de Lune Rose (750 ML),$15.98,750 ml,4,4,SO SOUR!!
+55,Sutter Home Rose (4PK 187 ML),$6.99,4pk 187 ml,0,0,
+56,Edna Valley Rose (750 ML),$14.99,750 ml,0,0,
+57,Rose All Day Rose (750 ML),$14.99,750 ml,0,0,
+58,CaMaiol Chiaretto Rose (750 ML),$16.99,750 ml,0,0,
+59,Underwood Rose Bubbles (375 ML),$7.99,375 ml,0,0,
+60,Cascadian Outfitters Sparkling Rose (375 ML),$5.99,375 ml,1,5,BEST SPARKLING ROSE' IN A CAN!
+61,Antiquus Costieres De Nimes Rose (750 ML),$29.98,750 ml,0,0,
+62,Sutter Home FRE Sparkling Rose 4 PK (4PK 250ML),$12.99,4pk 250ml,1,5,QUALITY NA BEVERAGE!
+63,Roscato Rosse Dolce 2 Pack (250 ML),$9.99,250 ml,0,0,
+64,Bev Rose (4PK 250ML),$19.99,4pk 250ml,18,4.8,THE ONLY GOOD PART OF 2020
+65,Chateau du Puch Bordeaux Rose (750 ML),$14.98,750 ml,1,4,EASY TO DRINK NOT TO SWEET.
+66,L'Excellence des Muraires Rose de Provence by Bernard Magrez (750 ML),$39.98,750 ml,0,0,
+67,Underwood Rose in a can (375 ML),$7.99,375 ml,2,3.5,NOT VERY GOOD.
+68,Gerard Bertrand Cote des Roses (375 ML),$11.99,375 ml,0,0,
+69,Sutter Home White Zinfandel (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+70,Beringer Main & Vine White Merlot (750 ML),$9.99,750 ml,3,4,GREAT SURPRISE
+71,Francis Coppola Sofia Rose (750 ML),$19.99,750 ml,5,4,WONDERFUL SURPRISE!
+72,Stella Rosa Rose (750 ML),$19.99,750 ml,2,5,GREAT SPRING/SUMMER SELECTION
+73,Domaines Ott BY.OTT Rose (750 ML),$34.99,750 ml,0,0,
+74,Dolce Vita Rose (750 ML),$17.98,750 ml,2,5,LOVELY ROSE
+75,Kendall-Jackson Vintner's Reserve Rose (750 ML),$19.99,750 ml,0,0,
+76,Joseph Perrier Brut Royale Rose Champagne (1.5 LTR),$149.99,1.5 ltr,0,0,
+77,House Wine Rose Can (375 ML),$6.99,375 ml,0,0,
+78,Clair de Lune Rose (750 ML),$15.98,750 ml,4,4,SO SOUR!!
+79,Sutter Home Rose (4PK 187 ML),$6.99,4pk 187 ml,0,0,
+80,Edna Valley Rose (750 ML),$14.99,750 ml,0,0,
+81,Rose All Day Rose (750 ML),$14.99,750 ml,0,0,
+82,CaMaiol Chiaretto Rose (750 ML),$16.99,750 ml,0,0,
+83,Underwood Rose Bubbles (375 ML),$7.99,375 ml,0,0,
+84,Cascadian Outfitters Sparkling Rose (375 ML),$5.99,375 ml,1,5,BEST SPARKLING ROSE' IN A CAN!
+85,Antiquus Costieres De Nimes Rose (750 ML),$29.98,750 ml,0,0,
+86,Sutter Home FRE Sparkling Rose 4 PK (4PK 250ML),$12.99,4pk 250ml,1,5,QUALITY NA BEVERAGE!
+87,Roscato Rosse Dolce 2 Pack (250 ML),$9.99,250 ml,0,0,
+88,Bev Rose (4PK 250ML),$19.99,4pk 250ml,18,4.8,THE ONLY GOOD PART OF 2020
+89,Chateau du Puch Bordeaux Rose (750 ML),$14.98,750 ml,1,4,EASY TO DRINK NOT TO SWEET.
+90,L'Excellence des Muraires Rose de Provence by Bernard Magrez (750 ML),$39.98,750 ml,0,0,
+91,Underwood Rose in a can (375 ML),$7.99,375 ml,2,3.5,NOT VERY GOOD.
+92,Gerard Bertrand Cote des Roses (375 ML),$11.99,375 ml,0,0,
+93,Sutter Home White Zinfandel (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+94,Beringer Main & Vine White Merlot (750 ML),$9.99,750 ml,3,4,GREAT SURPRISE
+95,Francis Coppola Sofia Rose (750 ML),$19.99,750 ml,5,4,WONDERFUL SURPRISE!
+0,Mederfil Lambrusco (750 ML),$19.98,750 ml,2,5,"NOT A ""DESSERT"" WINE!"
+1,Cappelletti Aperitivo (750 ML),$27.99,750 ml,0,0,
+2,Stella Rosa Black 250mL (250 ML),$4.99,250 ml,1,5,GREAT STORE
+3,Nectar Creek Nectarade Lemon Lime Mead (375 ML),$17.99,375 ml,0,0,
+4,Stella Rosa Blueberry (750 ML),$12.99,750 ml,0,0,
+5,Gallo Sweet Vermouth (750 ML),$8.99,750 ml,2,3,VERY POOR.
+17,Dow's Fine Ruby Port (750 ML),$21.99,750 ml,2,3,TERRIBLE
+18,Taylor Fladgate Tawny Port (750 ML),$17.99,750 ml,0,0,
+21,Dow's Late Bottled Vintage Port (750 ML),$29.99,750 ml,1,4,LOVE THE HINT OF CHERRIES
+22,Warre's Late Bottled Vintage Port (750 ML),$44.99,750 ml,0,0,
+23,Fonseca Late Bottled Vintage Port (750 ML),$29.99,750 ml,0,0,
+24,Mederfil Lambrusco (750 ML),$19.98,750 ml,2,5,"NOT A ""DESSERT"" WINE!"
+25,Cappelletti Aperitivo (750 ML),$27.99,750 ml,0,0,
+26,Stella Rosa Black 250mL (250 ML),$4.99,250 ml,1,5,GREAT STORE
+27,Nectar Creek Nectarade Lemon Lime Mead (375 ML),$17.99,375 ml,0,0,
+28,Stella Rosa Blueberry (750 ML),$12.99,750 ml,0,0,
+29,Gallo Sweet Vermouth (750 ML),$8.99,750 ml,2,3,VERY POOR.
+30,Barefoot Cellars Moscato (750 ML),$7.99,750 ml,1,5,GOOD
+31,ChocoVine Chocolate and Fine Wine (750 ML),$14.99,750 ml,6,4.7,WOW
+32,Dolce Vita Moscato (750 ML),$19.98,750 ml,4,3.8,GREAT FLAVOR BUT SPARKLING?
+33,Lillet Rose (750 ML),$29.99,750 ml,2,4.5,LOVE THIS PRODUCT
+34,Quady VYA Sweet Vermouth 375ML (375 ML),$17.99,375 ml,0,0,
+35,Twirl Moscato (750 ML),$17.98,750 ml,5,3.6,APRICOTS AND ALCOHOL?
+36,Tropical Passion Fruit Moscato (750 ML),$19.99,750 ml,1,5,SURPRISINGLY GOOD!
+37,Harveys Bristol Cream Sherry (750 ML),$22.99,750 ml,1,5,BEST SHERRY AT REASONABLE PRICE POINT
+38,Gallo Dry Vermouth (750 ML),$7.99,750 ml,4,2.3,DESPERATE?
+39,Warre's Warrior Port (750 ML),$22.99,750 ml,0,0,
+40,Dow's Fine Tawny Port (750 ML),$21.99,750 ml,0,0,
+41,Dow's Fine Ruby Port (750 ML),$21.99,750 ml,2,3,TERRIBLE
+42,Taylor Fladgate Tawny Port (750 ML),$17.99,750 ml,0,0,
+43,"Yalumba Antique Tawny Port, Barossa Valley, Australia (375 ML)",$24.99,375 ml,5,4.6,GREAT
+44,Warre's Heritage Ruby Port (750 ML),$19.99,750 ml,0,0,
+45,Dow's Late Bottled Vintage Port (750 ML),$29.99,750 ml,1,4,LOVE THE HINT OF CHERRIES
+46,Warre's Late Bottled Vintage Port (750 ML),$44.99,750 ml,0,0,
+47,Fonseca Late Bottled Vintage Port (750 ML),$29.99,750 ml,0,0,
+48,Taylor 10 Year Old Tawny Port (750 ML),$39.99,750 ml,3,3.3,PASS
+49,Fonseca 10 Year Old Tawny Port (750 ML),$44.99,750 ml,0,0,
+50,"Hidden Legend Elderberry Mead, Montana (750 ML)",$26.99,750 ml,0,0,
+51,Chaucers Mead (Honey Wine from California) (750 ML),$19.99,750 ml,8,4.1,DON'T CALL THIS WINE!
+52,Dow's 10 Year Old Tawny Port (750 ML),$49.99,750 ml,0,0,
+53,Dansk Mjod Viking Blod Mead (750 ML),$44.99,750 ml,0,0,
+54,Dansk Mjod GI (750 ML),$44.99,750 ml,0,0,
+55,"Hidden Legend Pure Honey Mead, Montana (750 ML)",$24.99,750 ml,0,0,
+56,Cocchi Vermouth di Torino (750 ML),$32.99,750 ml,0,0,
+57,Dow's Boardroom Tawny Port (750 ML),$39.99,750 ml,0,0,
+58,"Blandy's Rainwater Madeira (from Madeira, Portugal) (750 ML)",$24.99,750 ml,0,0,
+59,Sheffield Cellars Very Dry Sherry (750 ML),$10.99,750 ml,0,0,
+60,Mamapeach Moscato (750 ML),$19.99,750 ml,0,0,
+61,Stella Rosa Pineapple (750 ML),$16.99,750 ml,1,5,KEEP IT UP
+62,Stella Rosa Watermelon (750 ML),$16.99,750 ml,1,5,FIVE STARS FOR WHAT IT IS!
+63,"Graham's Six Grapes Reserve Port (Douro, Portugal) (750 ML)",$34.99,750 ml,6,4.2,SYRUP
+64,Graham's 20 Year Old Tawny Port (750 ML),$89.99,750 ml,1,5,SMOOTH AND TASTY
+65,Graham's 10 Year Old Tawny Port (750 ML),$44.99,750 ml,1,5,BEST PORT FROM PORTO!
+66,Mogen David Concord (750 ML),$7.99,750 ml,1,5,LOVE IT
+67,Pasek Cellars Raspberry Wine (750 ML),$16.99,750 ml,0,0,
+68,Pasek Cellars Blackberry Wine (750 ML),$16.99,750 ml,1,5,"A LOVELY, LOVELY WINE."
+69,Sandeman Founder's Reserve Ruby Port (750 ML),$29.99,750 ml,3,4.3,FULL BODIED. VERY SMOOTH
+70,Lillet Rouge (750 ML),$29.99,750 ml,1,5,BEST OF THE 3 LILLETS
+71,Stella Rosa Red Apple (750 ML),$16.99,750 ml,1,5,WOULD BUY AGAIN
+72,Hartley & Gibson Amontillado Sherry (750 ML),$23.99,750 ml,0,0,
+73,Fonseca Tawny Port (750 ML),$22.99,750 ml,0,0,
+74,Fonseca Ruby Port (750 ML),$22.99,750 ml,0,0,
+75,Taylor Fladgate Ruby Port (750 ML),$24.99,750 ml,0,0,
+76,Fonseca 20 Year Old Tawny Port (750 ML),$69.99,750 ml,0,0,
+77,Dolin De Chambery Dry Vermouth (375 ML),$22.99,375 ml,0,0,
+78,Dolin De Chambery Rouge (750 ML),$27.99,750 ml,0,0,
+79,Dolin De Chambery Dry (750 ML),$27.99,750 ml,0,0,
+80,Dolin De Chambery Rouge (375 ML),$22.99,375 ml,0,0,
+81,Fonseca Bin No. 27 Port (750 ML),$20.99,750 ml,4,3.8,OVER-RATED. SMOOTH BUT EXTREMELY SWEET.
+0,Emeri Sparkling Moscato (750 ML),$14.99,750 ml,0,0,
+1,Gruet Cuvee 89 Sparkling Rose (750 ML),$24.98,750 ml,10,4.5,WONDERFUL
+2,Joseph Perrier Cuvee Royale Brut Champagne (750 ML),$54.99,750 ml,6,4.2,"LOVED IT, GREAT TASTE."
+3,Rigallo Rose Brachetto D' Acqui (750 ML),$29.98,750 ml,2,3.5,DELICIOUS SWEET WINE
+4,Jam Cellars Toast Sparkling (750 ML),$29.99,750 ml,0,0,
+5,Michelle Brut Rose (750 ML),$16.99,750 ml,0,0,
+6,Blanc de Bleu Cuvee Mousseux 187mL (187 ML),$6.99,187 ml,0,0,
+7,Dolce Vita Rose (750 ML),$17.98,750 ml,2,5,LOVELY ROSE
+8,Cupcake Prosecco 187 ML 3 Pack (187 ML),$17.99,187 ml,0,0,
+9,Princesa Brut Rose (750 ML),$21.98,750 ml,2,5,AWESOME!
+10,La Marca Prosecco (3PK 187 ML),$19.99,3pk 187 ml,0,0,
+11,Ruffino Sparkling Rose (750 ML),$16.99,750 ml,0,0,
+12,14 Hands Brut Rose Sparkling (750 ML),$15.99,750 ml,0,0,
+13,House Wine Rose Bubbles (375 ML),$6.99,375 ml,1,5,"YES, IT CAN !"
+14,Haton Blanc de Blancs (750 ML),$49.99,750 ml,0,0,
+15,Bollicini Sparkling Cuvee (4PK 250ML),$13.99,4pk 250ml,1,5,MY FAV NOW!
+16,Ruffino Prosecco (3PK 187 ML),$19.99,3pk 187 ml,0,0,
+17,Marques de Caceres Cava Brut (750 ML),$14.99,750 ml,0,0,
+18,Freixenet Prosecco DOC (750 ML),$22.99,750 ml,2,5,LOVE IT
+19,Joseph Perrier Brut Royale Champagne NV (200 ML),$18.99,200 ml,0,0,
+20,Veuve Ambal Rose Cremant de Bourgogne (750 ML),$33.98,750 ml,4,3.8,I HAVE PURCHASED THIS IN THE PAST AND I AM DEFINITELY PURCHASING IT AGAIN. THIS IS A SPARKLING THAT CAN BE SERVED TO IMPRESS.
+21,Ruffino Prosecco (375 ML),$11.99,375 ml,0,0,
+22,Souffle Sparkling Demi Sec (750 ML),$24.98,750 ml,3,5,TRY IT!
+23,Underwood Rose Bubbles (375 ML),$7.99,375 ml,0,0,
+24,Emeri Sparkling Moscato (750 ML),$14.99,750 ml,0,0,
+25,Gruet Cuvee 89 Sparkling Rose (750 ML),$24.98,750 ml,10,4.5,WONDERFUL
+26,Joseph Perrier Cuvee Royale Brut Champagne (750 ML),$54.99,750 ml,6,4.2,"LOVED IT, GREAT TASTE."
+27,Rigallo Rose Brachetto D' Acqui (750 ML),$29.98,750 ml,2,3.5,DELICIOUS SWEET WINE
+28,Jam Cellars Toast Sparkling (750 ML),$29.99,750 ml,0,0,
+29,Michelle Brut Rose (750 ML),$16.99,750 ml,0,0,
+30,Blanc de Bleu Cuvee Mousseux 187mL (187 ML),$6.99,187 ml,0,0,
+31,Dolce Vita Rose (750 ML),$17.98,750 ml,2,5,LOVELY ROSE
+32,Cupcake Prosecco 187 ML 3 Pack (187 ML),$17.99,187 ml,0,0,
+33,Princesa Brut Rose (750 ML),$21.98,750 ml,2,5,AWESOME!
+34,La Marca Prosecco (3PK 187 ML),$19.99,3pk 187 ml,0,0,
+35,Ruffino Sparkling Rose (750 ML),$16.99,750 ml,0,0,
+36,14 Hands Brut Rose Sparkling (750 ML),$15.99,750 ml,0,0,
+37,House Wine Rose Bubbles (375 ML),$6.99,375 ml,1,5,"YES, IT CAN !"
+38,Haton Blanc de Blancs (750 ML),$49.99,750 ml,0,0,
+39,Bollicini Sparkling Cuvee (4PK 250ML),$13.99,4pk 250ml,1,5,MY FAV NOW!
+40,Ruffino Prosecco (3PK 187 ML),$19.99,3pk 187 ml,0,0,
+41,Marques de Caceres Cava Brut (750 ML),$14.99,750 ml,0,0,
+42,Freixenet Prosecco DOC (750 ML),$22.99,750 ml,2,5,LOVE IT
+43,Joseph Perrier Brut Royale Champagne NV (200 ML),$18.99,200 ml,0,0,
+44,Veuve Ambal Rose Cremant de Bourgogne (750 ML),$33.98,750 ml,4,3.8,I HAVE PURCHASED THIS IN THE PAST AND I AM DEFINITELY PURCHASING IT AGAIN. THIS IS A SPARKLING THAT CAN BE SERVED TO IMPRESS.
+45,Ruffino Prosecco (375 ML),$11.99,375 ml,0,0,
+46,Souffle Sparkling Demi Sec (750 ML),$24.98,750 ml,3,5,TRY IT!
+47,Underwood Rose Bubbles (375 ML),$7.99,375 ml,0,0,
+48,Emeri Sparkling Moscato (750 ML),$14.99,750 ml,0,0,
+49,Gruet Cuvee 89 Sparkling Rose (750 ML),$24.98,750 ml,10,4.5,WONDERFUL
+50,Joseph Perrier Cuvee Royale Brut Champagne (750 ML),$54.99,750 ml,6,4.2,"LOVED IT, GREAT TASTE."
+51,Rigallo Rose Brachetto D' Acqui (750 ML),$29.98,750 ml,2,3.5,DELICIOUS SWEET WINE
+52,Jam Cellars Toast Sparkling (750 ML),$29.99,750 ml,0,0,
+53,Michelle Brut Rose (750 ML),$16.99,750 ml,0,0,
+54,Blanc de Bleu Cuvee Mousseux 187mL (187 ML),$6.99,187 ml,0,0,
+55,Dolce Vita Rose (750 ML),$17.98,750 ml,2,5,LOVELY ROSE
+56,Cupcake Prosecco 187 ML 3 Pack (187 ML),$17.99,187 ml,0,0,
+57,Princesa Brut Rose (750 ML),$21.98,750 ml,2,5,AWESOME!
+58,La Marca Prosecco (3PK 187 ML),$19.99,3pk 187 ml,0,0,
+59,Ruffino Sparkling Rose (750 ML),$16.99,750 ml,0,0,
+60,14 Hands Brut Rose Sparkling (750 ML),$15.99,750 ml,0,0,
+61,House Wine Rose Bubbles (375 ML),$6.99,375 ml,1,5,"YES, IT CAN !"
+62,Haton Blanc de Blancs (750 ML),$49.99,750 ml,0,0,
+63,Bollicini Sparkling Cuvee (4PK 250ML),$13.99,4pk 250ml,1,5,MY FAV NOW!
+64,Ruffino Prosecco (3PK 187 ML),$19.99,3pk 187 ml,0,0,
+65,Marques de Caceres Cava Brut (750 ML),$14.99,750 ml,0,0,
+66,Freixenet Prosecco DOC (750 ML),$22.99,750 ml,2,5,LOVE IT
+67,Joseph Perrier Brut Royale Champagne NV (200 ML),$18.99,200 ml,0,0,
+68,Veuve Ambal Rose Cremant de Bourgogne (750 ML),$33.98,750 ml,4,3.8,I HAVE PURCHASED THIS IN THE PAST AND I AM DEFINITELY PURCHASING IT AGAIN. THIS IS A SPARKLING THAT CAN BE SERVED TO IMPRESS.
+69,Ruffino Prosecco (375 ML),$11.99,375 ml,0,0,
+70,Souffle Sparkling Demi Sec (750 ML),$24.98,750 ml,3,5,TRY IT!
+71,Underwood Rose Bubbles (375 ML),$7.99,375 ml,0,0,
+72,Pommery Champagne Pops Rose (187 ML),$19.99,187 ml,0,0,
+73,J Sparkling Brut Cuvee 20 NV (750 ML),$49.99,750 ml,0,0,
+74,Zonin Prosecco (750 ML),$19.99,750 ml,2,4.5,A GOOD CHOICE WITHOUT THE HASSLE OF COMPARING CHAMPAGNES.
+75,Jaume Serra Cristalino Brut (375 ML),$7.99,375 ml,0,0,
+76,Gruet Sparkling Wine Demi-Sec (750 ML),$19.99,750 ml,0,0,
+77,Moet & Chandon Imperial Brut (187 ML),$17.99,187 ml,1,5,PERFECT FOR ON THE GO
+78,Moet & Chandon Imperial Brut (1.5 LTR),$159.99,1.5 ltr,0,0,
+79,Princesa Cava Brut Nature (750 ML),$21.98,750 ml,1,4,"VERY NICE SPARKLING WINE, AT A VERY ATTRACTIVE PRICE."
+80,Dolce Vita Moscato (750 ML),$19.98,750 ml,4,3.8,GREAT FLAVOR BUT SPARKLING?
+81,Treveri Brut Blanc De Blanc NV (750 ML),$24.99,750 ml,0,0,
+82,Cupcake Prosecco (750 ML),$13.99,750 ml,0,0,
+83,Dolce Vita Prosecco (187 ML),$9.99,187 ml,0,0,
+84,Spiritus Prosecco Superiore Asolo DOCG Brut (750 ML),$19.99,750 ml,0,0,
+85,Earl Stevens Extra Dry Prosecco (750 ML),$21.99,750 ml,1,5,SURPRISINGLY REFRESHING
+86,La Marca Prosecco Rose (750 ML),$24.99,750 ml,0,0,
+87,Freixenet Cordon Negro Brut (187 ML),$7.99,187 ml,0,0,
+88,Schramsberg Brut Rose (750 ML),$49.99,750 ml,1,4,WE LIKED THE WINE
+89,Mionetto Prosecco Brut (750 ML),$15.99,750 ml,2,5,BEST UNDER $20 PROSCECCO
+90,Earl Stevens Cotton Candy Sparkling Wine (750 ML),$24.99,750 ml,13,3.5,TERRIBLE
+91,Cook's Brut Champagne (1.5 LTR),$16.99,1.5 ltr,3,3.3,MIRMOSAS
+92,Cuvee 89 by Gruet Blanc de Noirs Reserve (750 ML),$29.98,750 ml,0,0,
+93,Cuvee 89 by Gruet Brut Rose Reserve (750 ML),$29.98,750 ml,0,0,
+94,Taittinger Champagne Brut La Francaise (750 ML),$69.99,750 ml,2,5,YUMMY!
+95,Capriccio Rose Sangria (4PK 375 ML),$14.99,4pk 375 ml,1,4,FUN FOR PARTIES
+96,Ballatore Gran Spumante NV (750 ML),$12.99,750 ml,1,5,TASSSTNESS
+97,Joseph Perrier Champagne '08 (750 ML),$99.99,750 ml,1,5,GREAT VINTAGE CHAMPAGNE
+98,Charles Ninot Cremant De Bourgogne Blanc (750 ML),$29.98,750 ml,2,5,BEAUTIFUL TASTE
+99,Nino Franco Prosecco Rustico NV (750 ML),$34.99,750 ml,1,5,HATE CHAMPAGNE....LOVE THIS NINO FRANCO!
+100,"Mumm Napa Blanc de Blancs, Napa Valley (750 ML)",$26.99,750 ml,0,0,
+101,"Mumm Napa Brut Prestige, Napa Valley (750 ML)",$26.99,750 ml,3,3.7,GOOD BUT...
+102,"Gruet Brut, New Mexico Sparkling (750 ML)",$21.99,750 ml,1,5,GREAT CHAMPAGNE AT A VERY REASONABLE PRICE!
+103,"Gruet Blanc de Noirs, New Mexico Sparkling (750 ML)",$21.99,750 ml,0,0,
+104,"Mumm Napa Brut Rose, Napa Valley (750 ML)",$26.99,750 ml,1,4,CLASSY AND AFFORDABLE
+105,"Mumm Napa Cuvee M, Napa Valley Sparkling (750 ML)",$26.99,750 ml,5,4.6,MUMM BLUE LABEL USUALLY BUY THE CASE!
+106,Amano Prosecco Extra Dry (750 ML),$19.99,750 ml,1,5,EXCELLENT LIVELY BALANCE AND FINISH!
+107,Argyle Sparkling Brut (750 ML),$36.99,750 ml,0,0,
+108,Cuillier Originel Brut Champagne (750 ML),$59.99,750 ml,0,0,
+109,Domaine Carneros Sparkling Brut (750 ML),$47.99,750 ml,0,0,
+110,Veuve Clicquot Yellow Label NV (750 ML),$74.99,750 ml,12,3.8,NOT ALWAYS WHAT IT APPEARS
+111,Freixenet Cordon Negro (750 ML),$17.99,750 ml,0,0,
+112,Veuve Clicquot Demi-Sec (750 ML),$89.99,750 ml,0,0,
+113,Chandon Brut Rose (750 ML),$29.99,750 ml,4,5,LOVE THE ROSE
+114,Segura Viudas Heredad Reserve Brut Cava (750 ML),$34.99,750 ml,1,5,WONDERFULLY DRY.
+115,Chandon California Brut Sparkling Wine (375 ML),$19.99,375 ml,0,0,
+116,Moet & Chandon Rose Imperial (750 ML),$84.99,750 ml,2,4,MOËT AND CHANDON ROSE IMPERIAL
+117,Scharffenberger Sparkling Brut NV (750 ML),$29.99,750 ml,0,0,
+118,Brignac Brut Gold Ace Of Spades (750 ML),$449.99,750 ml,5,3.6,TRUE CRAFTSMANSHIP
+119,"Gruet Brut Rose, New Mexico Sparkling (750 ML)",$22.99,750 ml,0,0,
+120,Devaux Coeur des Bar Blanc de Blancs Champagne (750 ML),$79.99,750 ml,1,5,DELICIOUS! WOULD PAY MORE!
+121,Chandon Blanc de Pinot Noir Sparkling Wine (750 ML),$29.99,750 ml,3,5,GREAT BUBBLY TO GO WITH DINNER
+122,Lanson Brut Rose Champagne (750 ML),$79.99,750 ml,0,0,
+123,La Baume Chardonnay Brut White (750 ML),$17.99,750 ml,0,0,
+124,Cuillier Brut Rose Champagne (750 ML),$49.99,750 ml,0,0,
+125,Martini & Rossi Asti (750 ML),$17.99,750 ml,2,4.5,MAYBE IT'S FOR THE BEST THAT THIS ISN'T THE CHEAPEST...
+126,Martini & Rossi Asti 1.5L NV (1.5 LTR),$29.99,1.5 ltr,1,4,STOCK IT UP !!!
+127,Santa Margherita Prosecco (750 ML),$27.99,750 ml,1,5,ELEGANT WITH APPLES AND CREAM
+128,Blanc de Bleu Cuvee Mousseux (750 ML),$26.99,750 ml,4,4.5,TOO SWEET!!!
+129,Luisant Sparkling Brut NV (750 ML),$26.99,750 ml,7,5,GREAT SPARKLER AT A GREAT PRICE!
+130,Poema Brut Rose (750 ML),$19.99,750 ml,0,0,
+131,Coppola Sofia Brut Rose (750 ML),$24.99,750 ml,0,0,
+132,Francis Coppola Sofia Blanc de Blancs (750 ML),$24.99,750 ml,0,0,
+133,Kim Crawford Prosecco Extra Dry (750 ML),$24.99,750 ml,0,0,
+134,Schramsberg Blanc de Noirs (750 ML),$49.99,750 ml,2,4,DRINKABLE
+135,Roederer Estate L'Ermitage Brut (750 ML),$89.99,750 ml,0,0,
+136,Conundrum Sparkling (750 ML),$29.99,750 ml,0,0,
+137,Stella Rosa Imperial Prosecco Rose (750 ML),$33.99,750 ml,0,0,
+138,Juicy Sparkle Strawberry Prosecco (750 ML),$21.99,750 ml,0,0,
+139,Moet & Chandon Nectar Imperial Rose (750 ML),$89.99,750 ml,2,5,NAME SAYS IT ALL - SWEET AND PINK
+140,Ohza Classic Bellini (4PK 12 OZ),$15.99,4pk 12 oz,0,0,
+141,Ohza Classic Mimosa 4pk 12 oz cans (4PK 12 OZ),$12.99,4pk 12 oz,1,4,GOOD TASTE
+142,Korbel Champagne Brut (1.5 LTR),$29.99,1.5 ltr,0,0,
+143,Korbel Champagne Blanc de Noirs (750 ML),$17.99,750 ml,0,0,
+0,Sleight Of Hand Illusionist Cabernet Sauvignon (750 ML),$59.99,750 ml,0,0,
+1,Gramercy Cellars Syrah The Deuce (750 ML),$69.99,750 ml,0,0,
+2,Buzzballz Lime Rita (187 ML),$3.99,187 ml,0,0,
+3,MARK RYAN RED MONKEY WRENCH (750 ML),$37.99,750 ml,0,0,
+4,Buzzballz Choco Chiller (187 ML),$3.99,187 ml,0,0,
+5,Loco Lopez Sangria 1.5L (1.5 LTR),$14.99,1.5 ltr,0,0,
+6,Claffey's Frozen Cocktails 12 Variety Pack (12PK 187 ML),$26.99,12pk 187 ml,3,5,AWESOME!
+7,J Vineyard California Pinot Noir 375mL (375 ML),$19.99,375 ml,0,0,
+13,Cupcake Moscato d'Asti (750 ML),$16.99,750 ml,0,0,
+14,Ozeki Sparkling Hana Awaka Sake (250 ML),$8.99,250 ml,0,0,
+15,Long Shadows Sequel Syrah (750 ML),$69.99,750 ml,0,0,
+16,Long Shadows Feather Columbia Valley Cabernet Sauvignon (750 ML),$79.99,750 ml,0,0,
+17,Vietti Barbera d'Asti (750 ML),$19.99,750 ml,0,0,
+18,Tenet GSM Red Blend (750 ML),$89.99,750 ml,0,0,
+19,Sleight of Hand Levitation Syrah (750 ML),$59.99,750 ml,0,0,
+20,Delas Crozes Hermitage (750 ML),$39.99,750 ml,0,0,
+22,Settecieli Chianti Classico (750 ML),$24.98,750 ml,0,0,
+23,SETTECIELI PINOT NERO (750 ML),$15.98,750 ml,0,0,
+24,Sleight Of Hand Illusionist Cabernet Sauvignon (750 ML),$59.99,750 ml,0,0,
+25,Gramercy Cellars Syrah The Deuce (750 ML),$69.99,750 ml,0,0,
+26,Buzzballz Lime Rita (187 ML),$3.99,187 ml,0,0,
+28,Buzzballz Choco Chiller (187 ML),$3.99,187 ml,0,0,
+29,Loco Lopez Sangria 1.5L (1.5 LTR),$14.99,1.5 ltr,0,0,
+30,Claffey's Frozen Cocktails 12 Variety Pack (12PK 187 ML),$26.99,12pk 187 ml,3,5,AWESOME!
+31,J Vineyard California Pinot Noir 375mL (375 ML),$19.99,375 ml,0,0,
+32,House Wine Casa-Rita (375 ML),$6.99,375 ml,0,0,
+33,House Wine Paloma (375 ML),$6.99,375 ml,0,0,
+34,House Wine Ginger Mule (375 ML),$6.99,375 ml,0,0,
+35,House Wine Cranberry Cosmo (375 ML),$6.99,375 ml,0,0,
+36,Sutter Home Pinot Grigio (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+37,Cupcake Moscato d'Asti (750 ML),$16.99,750 ml,0,0,
+38,Ozeki Sparkling Hana Awaka Sake (250 ML),$8.99,250 ml,0,0,
+39,Long Shadows Sequel Syrah (750 ML),$69.99,750 ml,0,0,
+40,Long Shadows Feather Columbia Valley Cabernet Sauvignon (750 ML),$79.99,750 ml,0,0,
+41,Vietti Barbera d'Asti (750 ML),$19.99,750 ml,0,0,
+42,Tenet GSM Red Blend (750 ML),$89.99,750 ml,0,0,
+43,Sleight of Hand Levitation Syrah (750 ML),$59.99,750 ml,0,0,
+44,Delas Crozes Hermitage (750 ML),$39.99,750 ml,0,0,
+46,Settecieli Chianti Classico (750 ML),$24.98,750 ml,0,0,
+47,SETTECIELI PINOT NERO (750 ML),$15.98,750 ml,0,0,
+48,Sleight Of Hand Illusionist Cabernet Sauvignon (750 ML),$59.99,750 ml,0,0,
+49,Gramercy Cellars Syrah The Deuce (750 ML),$69.99,750 ml,0,0,
+50,Buzzballz Lime Rita (187 ML),$3.99,187 ml,0,0,
+51,MARK RYAN RED MONKEY WRENCH (750 ML),$37.99,750 ml,0,0,
+52,Buzzballz Choco Chiller (187 ML),$3.99,187 ml,0,0,
+53,Loco Lopez Sangria 1.5L (1.5 LTR),$14.99,1.5 ltr,0,0,
+54,Claffey's Frozen Cocktails 12 Variety Pack (12PK 187 ML),$26.99,12pk 187 ml,3,5,AWESOME!
+55,J Vineyard California Pinot Noir 375mL (375 ML),$19.99,375 ml,0,0,
+56,House Wine Casa-Rita (375 ML),$6.99,375 ml,0,0,
+57,House Wine Paloma (375 ML),$6.99,375 ml,0,0,
+58,House Wine Ginger Mule (375 ML),$6.99,375 ml,0,0,
+59,House Wine Cranberry Cosmo (375 ML),$6.99,375 ml,0,0,
+60,Sutter Home Pinot Grigio (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+61,Cupcake Moscato d'Asti (750 ML),$16.99,750 ml,0,0,
+62,Ozeki Sparkling Hana Awaka Sake (250 ML),$8.99,250 ml,0,0,
+63,Long Shadows Sequel Syrah (750 ML),$69.99,750 ml,0,0,
+64,Long Shadows Feather Columbia Valley Cabernet Sauvignon (750 ML),$79.99,750 ml,0,0,
+65,Vietti Barbera d'Asti (750 ML),$19.99,750 ml,0,0,
+66,Tenet GSM Red Blend (750 ML),$89.99,750 ml,0,0,
+67,Sleight of Hand Levitation Syrah (750 ML),$59.99,750 ml,0,0,
+68,Delas Crozes Hermitage (750 ML),$39.99,750 ml,0,0,
+69,Sea Sun Pinot Noir (750 ML),$24.99,750 ml,0,0,
+70,Settecieli Chianti Classico (750 ML),$24.98,750 ml,0,0,
+71,SETTECIELI PINOT NERO (750 ML),$15.98,750 ml,0,0,
+72,Sleight Of Hand Illusionist Cabernet Sauvignon (750 ML),$59.99,750 ml,0,0,
+73,Gramercy Cellars Syrah The Deuce (750 ML),$69.99,750 ml,0,0,
+74,Buzzballz Lime Rita (187 ML),$3.99,187 ml,0,0,
+75,MARK RYAN RED MONKEY WRENCH (750 ML),$37.99,750 ml,0,0,
+76,Buzzballz Choco Chiller (187 ML),$3.99,187 ml,0,0,
+77,Loco Lopez Sangria 1.5L (1.5 LTR),$14.99,1.5 ltr,0,0,
+78,Claffey's Frozen Cocktails 12 Variety Pack (12PK 187 ML),$26.99,12pk 187 ml,3,5,AWESOME!
+79,J Vineyard California Pinot Noir 375mL (375 ML),$19.99,375 ml,0,0,
+80,House Wine Casa-Rita (375 ML),$6.99,375 ml,0,0,
+81,House Wine Paloma (375 ML),$6.99,375 ml,0,0,
+82,House Wine Ginger Mule (375 ML),$6.99,375 ml,0,0,
+83,House Wine Cranberry Cosmo (375 ML),$6.99,375 ml,0,0,
+84,Sutter Home Pinot Grigio (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+85,Cupcake Moscato d'Asti (750 ML),$16.99,750 ml,0,0,
+86,Ozeki Sparkling Hana Awaka Sake (250 ML),$8.99,250 ml,0,0,
+87,Long Shadows Sequel Syrah (750 ML),$69.99,750 ml,0,0,
+88,Long Shadows Feather Columbia Valley Cabernet Sauvignon (750 ML),$79.99,750 ml,0,0,
+89,Vietti Barbera d'Asti (750 ML),$19.99,750 ml,0,0,
+90,Tenet GSM Red Blend (750 ML),$89.99,750 ml,0,0,
+91,Sleight of Hand Levitation Syrah (750 ML),$59.99,750 ml,0,0,
+92,Delas Crozes Hermitage (750 ML),$39.99,750 ml,0,0,
+93,Sea Sun Pinot Noir (750 ML),$24.99,750 ml,0,0,
+94,Settecieli Chianti Classico (750 ML),$24.98,750 ml,0,0,
+95,SETTECIELI PINOT NERO (750 ML),$15.98,750 ml,0,0,
+96,Sleight Of Hand Illusionist Cabernet Sauvignon (750 ML),$59.99,750 ml,0,0,
+97,Gramercy Cellars Syrah The Deuce (750 ML),$69.99,750 ml,0,0,
+98,Buzzballz Lime Rita (187 ML),$3.99,187 ml,0,0,
+99,MARK RYAN RED MONKEY WRENCH (750 ML),$37.99,750 ml,0,0,
+100,Buzzballz Choco Chiller (187 ML),$3.99,187 ml,0,0,
+101,Loco Lopez Sangria 1.5L (1.5 LTR),$14.99,1.5 ltr,0,0,
+102,Claffey's Frozen Cocktails 12 Variety Pack (12PK 187 ML),$26.99,12pk 187 ml,3,5,AWESOME!
+103,J Vineyard California Pinot Noir 375mL (375 ML),$19.99,375 ml,0,0,
+104,House Wine Casa-Rita (375 ML),$6.99,375 ml,0,0,
+105,House Wine Paloma (375 ML),$6.99,375 ml,0,0,
+106,House Wine Ginger Mule (375 ML),$6.99,375 ml,0,0,
+107,House Wine Cranberry Cosmo (375 ML),$6.99,375 ml,0,0,
+108,Sutter Home Pinot Grigio (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+109,Cupcake Moscato d'Asti (750 ML),$16.99,750 ml,0,0,
+110,Ozeki Sparkling Hana Awaka Sake (250 ML),$8.99,250 ml,0,0,
+111,Long Shadows Sequel Syrah (750 ML),$69.99,750 ml,0,0,
+112,Long Shadows Feather Columbia Valley Cabernet Sauvignon (750 ML),$79.99,750 ml,0,0,
+113,Vietti Barbera d'Asti (750 ML),$19.99,750 ml,0,0,
+114,Tenet GSM Red Blend (750 ML),$89.99,750 ml,0,0,
+115,Sleight of Hand Levitation Syrah (750 ML),$59.99,750 ml,0,0,
+116,Delas Crozes Hermitage (750 ML),$39.99,750 ml,0,0,
+117,Sea Sun Pinot Noir (750 ML),$24.99,750 ml,0,0,
+118,Settecieli Chianti Classico (750 ML),$24.98,750 ml,0,0,
+119,SETTECIELI PINOT NERO (750 ML),$15.98,750 ml,0,0,
+120,Sleight Of Hand Illusionist Cabernet Sauvignon (750 ML),$59.99,750 ml,0,0,
+121,Gramercy Cellars Syrah The Deuce (750 ML),$69.99,750 ml,0,0,
+122,Buzzballz Lime Rita (187 ML),$3.99,187 ml,0,0,
+123,MARK RYAN RED MONKEY WRENCH (750 ML),$37.99,750 ml,0,0,
+124,Buzzballz Choco Chiller (187 ML),$3.99,187 ml,0,0,
+125,Loco Lopez Sangria 1.5L (1.5 LTR),$14.99,1.5 ltr,0,0,
+126,Claffey's Frozen Cocktails 12 Variety Pack (12PK 187 ML),$26.99,12pk 187 ml,3,5,AWESOME!
+127,J Vineyard California Pinot Noir 375mL (375 ML),$19.99,375 ml,0,0,
+128,House Wine Casa-Rita (375 ML),$6.99,375 ml,0,0,
+129,House Wine Paloma (375 ML),$6.99,375 ml,0,0,
+130,House Wine Ginger Mule (375 ML),$6.99,375 ml,0,0,
+131,House Wine Cranberry Cosmo (375 ML),$6.99,375 ml,0,0,
+132,Sutter Home Pinot Grigio (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+133,Cupcake Moscato d'Asti (750 ML),$16.99,750 ml,0,0,
+134,Ozeki Sparkling Hana Awaka Sake (250 ML),$8.99,250 ml,0,0,
+135,Long Shadows Sequel Syrah (750 ML),$69.99,750 ml,0,0,
+136,Long Shadows Feather Columbia Valley Cabernet Sauvignon (750 ML),$79.99,750 ml,0,0,
+137,Vietti Barbera d'Asti (750 ML),$19.99,750 ml,0,0,
+138,Tenet GSM Red Blend (750 ML),$89.99,750 ml,0,0,
+139,Sleight of Hand Levitation Syrah (750 ML),$59.99,750 ml,0,0,
+140,Delas Crozes Hermitage (750 ML),$39.99,750 ml,0,0,
+141,Sea Sun Pinot Noir (750 ML),$24.99,750 ml,0,0,
+142,Settecieli Chianti Classico (750 ML),$24.98,750 ml,0,0,
+143,SETTECIELI PINOT NERO (750 ML),$15.98,750 ml,0,0,
+144,Sleight Of Hand Illusionist Cabernet Sauvignon (750 ML),$59.99,750 ml,0,0,
+145,Gramercy Cellars Syrah The Deuce (750 ML),$69.99,750 ml,0,0,
+146,Buzzballz Lime Rita (187 ML),$3.99,187 ml,0,0,
+147,MARK RYAN RED MONKEY WRENCH (750 ML),$37.99,750 ml,0,0,
+148,Buzzballz Choco Chiller (187 ML),$3.99,187 ml,0,0,
+149,Loco Lopez Sangria 1.5L (1.5 LTR),$14.99,1.5 ltr,0,0,
+150,Claffey's Frozen Cocktails 12 Variety Pack (12PK 187 ML),$26.99,12pk 187 ml,3,5,AWESOME!
+151,J Vineyard California Pinot Noir 375mL (375 ML),$19.99,375 ml,0,0,
+152,House Wine Casa-Rita (375 ML),$6.99,375 ml,0,0,
+153,House Wine Paloma (375 ML),$6.99,375 ml,0,0,
+154,House Wine Ginger Mule (375 ML),$6.99,375 ml,0,0,
+155,House Wine Cranberry Cosmo (375 ML),$6.99,375 ml,0,0,
+156,Sutter Home Pinot Grigio (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+157,Cupcake Moscato d'Asti (750 ML),$16.99,750 ml,0,0,
+158,Ozeki Sparkling Hana Awaka Sake (250 ML),$8.99,250 ml,0,0,
+159,Long Shadows Sequel Syrah (750 ML),$69.99,750 ml,0,0,
+160,Long Shadows Feather Columbia Valley Cabernet Sauvignon (750 ML),$79.99,750 ml,0,0,
+161,Vietti Barbera d'Asti (750 ML),$19.99,750 ml,0,0,
+162,Tenet GSM Red Blend (750 ML),$89.99,750 ml,0,0,
+163,Sleight of Hand Levitation Syrah (750 ML),$59.99,750 ml,0,0,
+164,Delas Crozes Hermitage (750 ML),$39.99,750 ml,0,0,
+165,Sea Sun Pinot Noir (750 ML),$24.99,750 ml,0,0,
+166,Settecieli Chianti Classico (750 ML),$24.98,750 ml,0,0,
+167,SETTECIELI PINOT NERO (750 ML),$15.98,750 ml,0,0,
+168,JAM CELLARS BUTTER CAB SAUV (750 ML),$19.99,750 ml,0,0,
+169,House Wine Strawberry Lemonade (375 ML),$5.99,375 ml,0,0,
+170,She Can Citrus Rose Spritz (375 ML CAN ),$7.99,375 ml can,0,0,
+171,Sutter Home Peach Tea Wine Cocktail (4PK 187 ML),$7.99,4pk 187 ml,0,0,
+172,Ohza Classic Bellini (4PK 12 OZ),$15.99,4pk 12 oz,0,0,
+173,Ohza Classic Mimosa 4pk 12 oz cans (4PK 12 OZ),$12.99,4pk 12 oz,1,4,GOOD TASTE
+174,STELLA ROSA PINEAPPLE CAN 2PK (2PK 250ML),$8.99,2pk 250ml,0,0,
+175,Domaine Philippe Portier Quincy (750 ML),$36.98,750 ml,0,0,
+176,Chateau Diana Zero Alcohol White (750 ML),$11.99,750 ml,3,3.7,WATER AND TANG
+177,KIM CRAWFORD SAUV BLANC 4PK (4PK 250ML),$24.99,4pk 250ml,0,0,
+178,Dolin de Chambery Blanc (750 ML),$27.99,750 ml,0,0,
+179,Sassoregale Maremma Sangiovese (750 ML),$21.99,750 ml,0,0,
+180,DUCK HUNTER SAUV BLANC (750 ML),$24.99,750 ml,0,0,
+181,Ohza Mango Mimosa 4pk 12 oz cans (4PK 12 OZ),$14.99,4pk 12 oz,0,0,
+182,Stella Rosa Peach Non Alcoholic (750 ML),$12.99,750 ml,0,0,
